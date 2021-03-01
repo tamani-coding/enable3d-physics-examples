@@ -95,9 +95,6 @@ export class ThreePhysicsComponent extends Scene3D {
 
   }
 
-  ngOnInit(): void {
-  }
-
 }
 
 // set your project configs
