@@ -2,7 +2,7 @@
 
 ## Simple example of Three.js with ammo.js with Enable3D
 
-![Screenshot](https://github.com/tamani-coding/enable3d-physics-examples/blob/main/screenshot.png?raw=true)
+![Screenshot](https://raw.githubusercontent.com/tamani-coding/enable3d-physics-examples/master/screenshot.png)
 
 ---
 
